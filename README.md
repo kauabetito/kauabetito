@@ -14,8 +14,8 @@
 <h3> 📚 Github Stats: <br></h3>
 <div>
   <a href="[https://github.com/kauabetito](https://github.com/kauabetito)"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauabetito&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabetito&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauabetito&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabetito&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <br>
