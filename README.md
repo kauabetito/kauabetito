@@ -1,4 +1,4 @@
-## Olá, Seja Bem Vindo(a) ao meu perfil 👋
+## Olá, Eu Sou Kauã Betito. Seja Bem Vindo(a) ao meu perfil! 👋🏻
  
   
 <h3> 🌐 Redes Sociais: <br></h3> 
