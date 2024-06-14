@@ -1,5 +1,5 @@
-## Olá, Eu Sou Kauã Betito. Seja Bem Vindo(a) ao meu perfil! 👋🏻
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bold+Code&weight=300&size=35&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=1000&lines=Seja+Bem+Vindo(a)+ao+meu+perfil.+👋🏻;Estou+me+formando+em+ADS.+👨🏻‍💻;e+sou+um+aprendiz+eterno+no+universo+da+tecnologia.+👨🏻‍🎓)](https://git.io/typing-svg)
+##
   
 <h3> 🌐 Redes Sociais: <br></h3> 
 
