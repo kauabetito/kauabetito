@@ -10,12 +10,11 @@
    <a href = "mailto:kaualimabetito7228@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 ##
-
 <h3> 📚 Github Stats: <br></h3>
 <div>
   <a href="[https://github.com/kauabetito](https://github.com/kauabetito)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauabetito&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabetito&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabetito&layout=compact&langscount=16&theme=tokyonight"/>
 </div>
 
 <br>
